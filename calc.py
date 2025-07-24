@@ -1,1 +1,1 @@
-def
+print("Hello!")
